@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I’m an AIML student who enjoys building practical tech solutions that solve real-world problems. 
+
+I’m especially interested in Artificial Intelligence, Machine Learning, and full-stack development.
+
+- 🔭 I’m currently working on MediGuard: A personalized medication safety system.
+
+- 🌱 I’m currently learning advanced Machine Learning concepts, API integration, and improving my React skills.
+
+- 📫 Reach me at: kalakuntlasaikumar1@gmail.com
 <!--
 **Kalakuntla-SaiKumar/Kalakuntla-SaiKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
