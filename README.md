@@ -1,5 +1,5 @@
 # 💫 Hi There!
-I’m an AIML student who enjoys building practical tech solutions that solve real-world problems.<br><br>I’m especially interested in Artificial Intelligence, Machine Learning, and full-stack development.<br><br>🔭 I’m currently working on MediGuard: A personalized medication safety system.<br><br>🌱 I’m currently learning advanced Machine Learning concepts, API integration, and improving my React skills.
+I’m an AIML student who enjoys building practical tech solutions that solve real-world problems.<br>I’m especially interested in Artificial Intelligence, Machine Learning, and full-stack development.<br><br>🔭 I’m currently working on MediGuard: A personalized medication safety system.<br><br>🌱 I’m currently learning advanced Machine Learning concepts, API integration, and improving my React skills.
 
 
 ## 🌐 Socials:
